@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/BluePrint/Shooting/ShootingGame/Content/Lyra_Anim/ABP_Idle.uasset",
+				"D:/BluePrint/Shooting/ShootingGame/Content/Lyra_Anim/ABP_Base.uasset",
+				"D:/BluePrint/Shooting/ShootingGame/Content/Lyra_Anim/EN_AnimWalk.uasset",
 				"C:/Shooting/ShootingGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Shooting/ShootingGame/Content/Lyra_Anim/CR_HandleL.uasset",
 				"C:/Shooting/ShootingGame/Content/Lyra_Anim/ABP_Shooting.uasset",
