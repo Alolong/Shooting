@@ -1,0 +1,2 @@
+/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_MachineGun_C_UAID_B42E9985060EAC6602_1124149479
+/Game/Shooting/Weapon/BP_Weapon.BP_Weapon_C
