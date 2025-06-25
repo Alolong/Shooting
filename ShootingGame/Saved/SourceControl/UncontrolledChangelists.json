@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Shooting/ShootingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Shooting/ShootingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Shooting/ShootingGame/Content/GMB/Shooting/Weapon/BP_Weapon.uasset",
+				"C:/Shooting/ShootingGame/Content/GMB/Shooting/Weapon/BPI_Weapon.uasset",
+				"C:/Shooting/ShootingGame/Content/GMB/Shooting/GM/BP_ShootingChar.uasset",
+				"C:/Shooting/ShootingGame/Content/GMB/Shooting/Weapon/BP_Weapon_Burst.uasset",
+				"C:/Shooting/ShootingGame/Content/Widget/Lobby/Lobbi_hud_widget.uasset",
+				"C:/Shooting/ShootingGame/Content/GMB/Shooting/Weapon/BP_Weapon_MachineGun.uasset",
+				"C:/Shooting/ShootingGame/Content/GMB/Shooting/Weapon/AnimNotify_Fire.uasset"
 			]
 		}
 	]
